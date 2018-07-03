@@ -1,0 +1,106 @@
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\University Management System.dll.config
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\University Management System.dll
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\University Management System.pdb
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\EntityFramework.dll
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\System.Web.Webpages.dll
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\System.Web.Webpages.Razor.dll
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\EntityFramework.xml
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\System.Web.Webpages.xml
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\System.Web.Webpages.Razor.xml
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\University Management System\University Management System\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\University Management System\University Management System\obj\Debug\University Management System.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\University Management System\University Management System\obj\Debug\University Management System.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\University Management System\University Management System\obj\Debug\University Management System.dll
+C:\Users\Asus\Desktop\University Management System\University Management System\obj\Debug\University Management System.pdb
+C:\Users\Asus\Desktop\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.InitialCreate.resources
+C:\Users\Asus\Desktop\University Management System\University Management System\obj\Debug\University Management System.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial.resources
+C:\Users\Asus\Desktop\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial1.resources
+C:\Users\Asus\Desktop\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.intial.resources
+C:\Users\Asus\Desktop\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial2.resources
+C:\Users\Asus\Desktop\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial3.resources
+C:\Users\Asus\Desktop\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial4.resources
+C:\Users\Asus\Desktop\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial5.resources
+C:\Users\Asus\Desktop\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial6.resources
+C:\Users\Asus\Desktop\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial7.resources
+C:\Users\Asus\Desktop\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial8.resources
+C:\Users\Asus\Desktop\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial9.resources
+C:\Users\Asus\Desktop\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.ViewStudents.resources
+D:\Academic Projects\University Management System\University Management System\bin\University Management System.dll.config
+D:\Academic Projects\University Management System\University Management System\bin\University Management System.dll
+D:\Academic Projects\University Management System\University Management System\bin\University Management System.pdb
+D:\Academic Projects\University Management System\University Management System\bin\EntityFramework.dll
+D:\Academic Projects\University Management System\University Management System\bin\EntityFramework.SqlServer.dll
+D:\Academic Projects\University Management System\University Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Academic Projects\University Management System\University Management System\bin\Microsoft.Web.Infrastructure.dll
+D:\Academic Projects\University Management System\University Management System\bin\System.Web.Helpers.dll
+D:\Academic Projects\University Management System\University Management System\bin\System.Web.Mvc.dll
+D:\Academic Projects\University Management System\University Management System\bin\System.Web.Razor.dll
+D:\Academic Projects\University Management System\University Management System\bin\System.Web.Webpages.Deployment.dll
+D:\Academic Projects\University Management System\University Management System\bin\System.Web.Webpages.dll
+D:\Academic Projects\University Management System\University Management System\bin\System.Web.Webpages.Razor.dll
+D:\Academic Projects\University Management System\University Management System\bin\EntityFramework.xml
+D:\Academic Projects\University Management System\University Management System\bin\EntityFramework.SqlServer.xml
+D:\Academic Projects\University Management System\University Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Academic Projects\University Management System\University Management System\bin\System.Web.Razor.xml
+D:\Academic Projects\University Management System\University Management System\bin\System.Web.Webpages.xml
+D:\Academic Projects\University Management System\University Management System\bin\System.Web.Webpages.Deployment.xml
+D:\Academic Projects\University Management System\University Management System\bin\System.Web.Webpages.Razor.xml
+D:\Academic Projects\University Management System\University Management System\bin\System.Web.Helpers.xml
+D:\Academic Projects\University Management System\University Management System\bin\System.Web.Mvc.xml
+D:\Academic Projects\University Management System\University Management System\obj\Debug\University Management System.csproj.CoreCompileInputs.cache
+D:\Academic Projects\University Management System\University Management System\obj\Debug\University Management System.dll
+D:\Academic Projects\University Management System\University Management System\obj\Debug\University Management System.pdb
+D:\Academic Projects\University Management System\University Management System\obj\Debug\University Management System.csprojResolveAssemblyReference.cache
+D:\Academic Projects\University Management System\University Management System\bin\GridMvc.dll
+D:\Academic Projects\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial.resources
+D:\Academic Projects\University Management System\University Management System\obj\Debug\University Management System.csproj.GenerateResource.Cache
+D:\Academic Projects\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial1.resources
+D:\Academic Projects\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial2.resources
+D:\Academic Projects\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial3.resources
+D:\Academic Projects\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial4.resources
+D:\AcademicProjects\University Management System\University Management System\bin\University Management System.dll.config
+D:\AcademicProjects\University Management System\University Management System\bin\University Management System.dll
+D:\AcademicProjects\University Management System\University Management System\bin\University Management System.pdb
+D:\AcademicProjects\University Management System\University Management System\bin\EntityFramework.dll
+D:\AcademicProjects\University Management System\University Management System\bin\EntityFramework.SqlServer.dll
+D:\AcademicProjects\University Management System\University Management System\bin\GridMvc.dll
+D:\AcademicProjects\University Management System\University Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AcademicProjects\University Management System\University Management System\bin\Microsoft.Web.Infrastructure.dll
+D:\AcademicProjects\University Management System\University Management System\bin\System.Web.Helpers.dll
+D:\AcademicProjects\University Management System\University Management System\bin\System.Web.Mvc.dll
+D:\AcademicProjects\University Management System\University Management System\bin\System.Web.Razor.dll
+D:\AcademicProjects\University Management System\University Management System\bin\System.Web.Webpages.Deployment.dll
+D:\AcademicProjects\University Management System\University Management System\bin\System.Web.Webpages.dll
+D:\AcademicProjects\University Management System\University Management System\bin\System.Web.Webpages.Razor.dll
+D:\AcademicProjects\University Management System\University Management System\bin\EntityFramework.xml
+D:\AcademicProjects\University Management System\University Management System\bin\EntityFramework.SqlServer.xml
+D:\AcademicProjects\University Management System\University Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AcademicProjects\University Management System\University Management System\bin\System.Web.Razor.xml
+D:\AcademicProjects\University Management System\University Management System\bin\System.Web.Webpages.xml
+D:\AcademicProjects\University Management System\University Management System\bin\System.Web.Webpages.Deployment.xml
+D:\AcademicProjects\University Management System\University Management System\bin\System.Web.Webpages.Razor.xml
+D:\AcademicProjects\University Management System\University Management System\bin\System.Web.Helpers.xml
+D:\AcademicProjects\University Management System\University Management System\bin\System.Web.Mvc.xml
+D:\AcademicProjects\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial.resources
+D:\AcademicProjects\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial1.resources
+D:\AcademicProjects\University Management System\University Management System\obj\Debug\University Management System.csproj.GenerateResource.Cache
+D:\AcademicProjects\University Management System\University Management System\obj\Debug\University Management System.csproj.CoreCompileInputs.cache
+D:\AcademicProjects\University Management System\University Management System\obj\Debug\University Management System.dll
+D:\AcademicProjects\University Management System\University Management System\obj\Debug\University Management System.pdb
+D:\AcademicProjects\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial2.resources
+D:\AcademicProjects\University Management System\University Management System\obj\Debug\University Management System.csprojResolveAssemblyReference.cache
+D:\AcademicProjects\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial3.resources
+D:\AcademicProjects\University Management System\University Management System\obj\Debug\University_Management_System.Migrations.initial4.resources
